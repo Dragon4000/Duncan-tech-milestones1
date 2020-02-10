@@ -1,0 +1,23 @@
+html{@font-face 
+    font-size: 12px;
+    font-family: fantasy;
+}
+header{
+    text-align: center;
+}
+head{
+    color: wheat
+}
+body {
+
+    background-color:darkblue
+} 
+body>p{
+    color:gold
+}
+h1{
+    color:black
+}
+h1{
+    text-emphasis: size 30px; 
+}
